@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Engenharia+da+Computação;Desenvolvimento+Full-Stack;Arquitetura+de+Software;APIs+Robustas+e+Escaláveis" alt="Minhas Habilidades" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+Full-Stack;Arquitetura+de+Software;APIs+Robustas+e+Escal%C3%A1veis" alt="Minhas Habilidades" />
 </div>
 
 <br />
@@ -60,8 +60,8 @@ Sou estudante de **Engenharia da Computação**, apaixonado tanto pelo software 
 ## 📊 Meus Status no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorAngN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAngN&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VitorAngN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAngN&layout=compact&langs_count=7&theme=dracula&v=1"/>
 </div>
 
 ---
