@@ -57,15 +57,6 @@ Sou estudante de **Engenharia da Computação**, apaixonado tanto pelo software 
 
 ---
 
-## 📊 Meus Status no GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VitorAngN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAngN&layout=compact&langs_count=7&theme=dracula&v=1"/>
-</div>
-
----
-
 <p align="center">
 Visite meu repositório mais novo: <b>Sistema de Helpdesk Corporativo!</b> 🚧
 </p>
