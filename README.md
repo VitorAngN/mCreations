@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Engenharia+da+Computação;Desenvolvimento+Full-Stack;Arquitetura+de+Software;APIs+Robustas+e+Escaláveis" alt="Typing SVG" />
+  ![Minhas Habilidades](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Engenharia+da+Computação;Desenvolvimento+Full-    Stack;Arquitetura+de+Software;APIs+Robustas+e+Escaláveis)
 </div>
 
 <br />
