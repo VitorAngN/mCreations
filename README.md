@@ -60,8 +60,8 @@ Sou estudante de **Engenharia da Computação**, apaixonado tanto pelo software 
 ## 📊 Meus Status no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mCreations&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mCreations&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorAngN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAngN&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
