@@ -1,23 +1,31 @@
-<h1 align="center">Olá, eu sou Estudante de Engenharia da Computação! 👋</h1>
+<h1 align="center">Olá, eu sou Vitor Angenendt! 👋</h1>
 
 <p align="center">
-  <i>"Focado em entender a computação de baixo nível até sistemas escaláveis e de alto nivel. Atualmente aprofundando em arquitetura, APIs robustas e tecnologias sólidas voltadas ao mercado."</i>
+  <i>"Focado em entender a computação desde o baixo nível do hardware até ecossistemas e APIs escaláveis. Atualmente aprofundando em arquitetura e tecnologias sólidas voltadas ao mercado corporativo."</i>
 </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+Full-Stack;Arquitetura+de+Software;APIs+Robustas+e+Escal%C3%A1veis" alt="Minhas Habilidades" />
 </div>
 
-<br />
+---
 
 ## 🚀 Sobre Mim
+Sou estudante de **Engenharia da Computação**, apaixonado tanto pelo software de alto nível quanto pelo hardware "debaixo dos panos". Tenho um perfil voltado a entender a base estrutural realista (Lógica, Estrutura de Dados e POO) aliada ao Desenvolvimento Ágil de sistemas.
 
-Sou estudante de **Engenharia da Computação**, apaixonado tanto pelo software de alto nível quanto pelo hardware "debaixo dos panos". Tenho um perfil voltado a entender a base estrutural realística (Lógica, Estrutura de Dados e POO) aliada ao Desenvolvimento Ágil de sistemas reais.
-
-- 🔭 Trabalhando em projetos focados em performance, utilizando metodologias e ecossistemas do mercado.
-- 🌱 Aprofundando em design de **APIs RESTful** robustas utilizando ecossistemas como **Java, Node.js e Laravel**.
+- 🔭 Desenvolvo projetos focados em performance, utilizando metodologias e ecossistemas robustos de mercado.
+- 🌱 Aprofundando em design de **APIs RESTful** complexas utilizando **Java, Node.js e Laravel**.
 - ⚙️ Interesse forte por **C/C++, C#, Redes, Sistemas Operacionais** e Troubleshooting de Hardware/Software.
-- 🎨 Gosto de abraçar todas as etapas: desde prototipar a interface visual no **Figma** até desenhar todas as tabelas do Banco de Dados no Back-end.
+- 🎨 Gosto de abraçar todas as etapas: desde prototipar a interface visual no Figma até modelar o Banco de Dados Relacional no Back-end.
+
+---
+
+## 🌟 Projeto em Destaque
+
+Acredito no aprendizado forjado por projetos complexos mais do que dezenas de aplicações rasas, mas elas possuem seu ponto forte.
+
+🎧 **[Helpdesk Corporativo & Gestão de Chamados de TI](https://github.com/VitorAngN/helpdesk-system)**
+Um monólito Full-Stack desenvolvido do zero estruturando a ponte entre clientes e suporte técnico B2B. A Arquitetura utiliza **React**, **TypeScript**, e Autenticação severa via **JWT**. O ecossistema roda inteiramente suportado por uma API protegida no **Express** integrada com banco **MySQL** modelado no **Prisma**. O sistema baseia-se num roteamento blindado de três camadas isoladas (Admin, Agente, Usuário).
 
 ---
 
@@ -48,15 +56,16 @@ Sou estudante de **Engenharia da Computação**, apaixonado tanto pelo software 
 ### Back-end & Infraestrutura
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### Engenharia de Software
-> **Conhecimentos Sólidos em:** Programação Orientada a Objetos (POO), Estruturas de Dados, Lógica de Programação, Metodologias Ágeis, Sistemas Operacionais, Redes de Computadores e Troubleshooting Avançado (Hardware/Software).
+> **Conhecimentos Sólidos em:** Programação Orientada a Objetos (POO), Banco de Dados Relacional, Estruturas de Dados, Lógica de Programação, Metodologias Ágeis, Sistemas Operacionais, Redes e Troubleshooting.
 
 ---
 
-<p align="center">
-Visite meu repositório mais novo: <b>Sistema de Helpdesk Corporativo!</b> 🚧
-</p>
+### 🤝 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-angenendt/)
