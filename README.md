@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Vitor Angenendt! 👋</h1>
+<h1 align="center">Olá, eu sou Vitor Angelim! 👋</h1>
 
 <p align="center">
   <i>"Focado em entender a computação desde o baixo nível do hardware até ecossistemas e APIs escaláveis. Atualmente aprofundando em arquitetura e tecnologias sólidas voltadas ao mercado corporativo."</i>
