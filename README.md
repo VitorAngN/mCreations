@@ -137,6 +137,4 @@ Sempre trabalhando em novos projetos para expandir conhecimento. Fique de olho!
 
 [![Portfolio](https://img.shields.io/badge/Veja_meu_portfólio_completo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitorangn.github.io)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VitorAngN&color=7c3aed&style=flat-square&label=Visitantes)
-
 </div>
