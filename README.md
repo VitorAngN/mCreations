@@ -14,7 +14,7 @@
 
 ### Sobre Mim
 
-Natural do Ceará e graduando em Engenharia da Computação pela UTFPR — Curitiba/PR.
+Natural do Ceará e graduando em Engenharia da Computação pela UTFPR — Cornélio Procópio/PR.
 
 Focado no desenvolvimento de sistemas com base estrutural sólida em Lógica, Estrutura de Dados e POO, aliada ao uso de metodologias ágeis.
 
