@@ -20,7 +20,7 @@ Focado no desenvolvimento de sistemas com base estrutural sólida em Lógica, Es
 
 *   Desenvolvimento de projetos com foco em performance e arquitetura limpa.
 *   Experiência em design de APIs RESTful com Java, Node.js e Go.
-*   Interesse em C/C++, C#, Redes e Sistemas Operacionais.
+*   Interesse em FullStack, gerenciamento de data e alguns outros.
 *   Atuação em todas as etapas do projeto, da prototipação no Figma à modelagem de banco de dados.
 *   Inglês avançado (C1) — leitura, escrita e comunicação profissional.
 
