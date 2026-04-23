@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vitor Angelim
+# João Vitor Angelim Nogueira
 
 **Desenvolvedor Back-End & Full-Stack**
 
