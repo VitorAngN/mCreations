@@ -1,10 +1,18 @@
 <div align="center">
 
+<<<<<<< HEAD
 # Olá, eu sou o Vitor Angelim!
+=======
+# João Vitor Angelim Nogueira
+>>>>>>> d0d5ffe254388ddf83739841ae42fa6c8e420cd8
 
-**`Desenvolvedor Back-End & Full-Stack`**
+**Desenvolvedor Back-End & Full-Stack**
 
+<<<<<<< HEAD
 [![Portfolio](https://img.shields.io/badge/_Portfólio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
+=======
+[![Portfolio](https://img.shields.io/badge/Portfolio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
+>>>>>>> d0d5ffe254388ddf83739841ae42fa6c8e420cd8
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victornogueira1130@gmail.com)
 
@@ -14,15 +22,23 @@
 
 ### Sobre Mim
 
-Natural do **Ceará** e graduando em **Engenharia da Computação** pela **UTFPR** — Curitiba/PR.
+Natural do Ceará e graduando em Engenharia da Computação pela UTFPR — Cornélio Procópio/PR.
 
-Apaixonado tanto pelo software de alto nível quanto pelo hardware "debaixo dos panos". Tenho um perfil voltado à **base estrutural realista** — Lógica, Estrutura de Dados e POO — aliada ao Desenvolvimento Ágil de sistemas.
+Focado no desenvolvimento de sistemas com base estrutural sólida em Lógica, Estrutura de Dados e POO, aliada ao uso de metodologias ágeis.
 
+<<<<<<< HEAD
 - Desenvolvo projetos focados em **performance e arquitetura limpa**, utilizando metodologias robustas de mercado.
 - Aprofundando em **design de APIs RESTful complexas** com Java, Node.js e Go.
 - Interesse forte por **C/C++, C#, Redes, Sistemas Operacionais** e Troubleshooting Hardware/Software.
 - Abraço todas as etapas: desde prototipar no **Figma** até modelar o Banco de Dados no Back-end.
 - **Inglês avançado (C1)** — leitura, escrita e comunicação profissional.
+=======
+*   Desenvolvimento de projetos com foco em performance e arquitetura limpa.
+*   Experiência em design de APIs RESTful com Java, Node.js e Go.
+*   Interesse em FullStack, gerenciamento de data e alguns outros.
+*   Atuação em todas as etapas do projeto, da prototipação no Figma à modelagem de banco de dados.
+*   Inglês avançado (C1) — leitura, escrita e comunicação profissional.
+>>>>>>> d0d5ffe254388ddf83739841ae42fa6c8e420cd8
 
 ---
 
@@ -70,15 +86,24 @@ Apaixonado tanto pelo software de alto nível quanto pelo hardware "debaixo dos 
 <td width="50%">
 
 #### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
+<<<<<<< HEAD
 Sistema Full-Stack de gestão de chamados B2B com **React, TypeScript, Express, Prisma e MySQL**. Autenticação JWT com roteamento blindado de 3 camadas isoladas (Admin, Agente, Usuário).
+=======
+Sistema Full-Stack de gestão de chamados B2B com React, TypeScript, Express, Prisma e MySQL. Autenticação JWT com roteamento blindado de 3 camadas isoladas (Admin, Agente, Usuário).
+>>>>>>> d0d5ffe254388ddf83739841ae42fa6c8e420cd8
 
 `React` `TypeScript` `Node.js` `Express` `Prisma` `MySQL` `JWT`
 
 </td>
 <td width="50%">
 
+<<<<<<< HEAD
 #### 📄[Korp — Sistema de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
 Sistema de emissão de notas com **microserviços em Go**, frontend **Angular** e comunicação resiliente via circuit breaker. PostgreSQL + Docker Compose para orquestração.
+=======
+#### [Korp — Sistema de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
+Sistema de emissão de notas com microserviços em Go, frontend Angular e comunicação resiliente via circuit breaker. PostgreSQL + Docker Compose para orquestração.
+>>>>>>> d0d5ffe254388ddf83739841ae42fa6c8e420cd8
 
 `Angular` `Go` `PostgreSQL` `Docker` `Microserviços` `REST`
 
@@ -87,16 +112,21 @@ Sistema de emissão de notas com **microserviços em Go**, frontend **Angular** 
 <tr>
 <td width="50%">
 
-#### 🖥️ [CPU Emulator](https://github.com/VitorAngN/oldCPUEmulator)
-Emulador de CPU desenvolvido do zero em **C++** para estudos de arquitetura de computadores. Implementação de instruções, registradores e ciclo de clock.
+#### [CPU Emulator](https://github.com/VitorAngN/oldCPUEmulator)
+Emulador de CPU desenvolvido do zero em C++ para estudos de arquitetura de computadores. Implementação de instruções, registradores e ciclo de clock.
 
 `C++` `Arquitetura` `Low-Level` `Emulação`
 
 </td>
 <td width="50%">
 
+<<<<<<< HEAD
 #### [UrbanShield — Segurança Pública](https://github.com/VitorAngN/public-security-system)
 Plataforma tática para despacho policial e monitoramento urbano. Dashboard em tempo real com integração de mapas (Google Maps API) e análise de dados operacionais.
+=======
+#### Em breve...
+Trabalhando em novos projetos para expandir o portfólio. Novos repositórios serão listados aqui em breve.
+>>>>>>> d0d5ffe254388ddf83739841ae42fa6c8e420cd8
 
 `React` `TypeScript` `Vite` `Google Maps API` `Recharts`
 
@@ -106,7 +136,7 @@ Plataforma tática para despacho policial e monitoramento urbano. Dashboard em t
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -117,24 +147,11 @@ Plataforma tática para despacho policial e monitoramento urbano. Dashboard em t
 
 ---
 
-### 💡 Conhecimentos Sólidos
+### Conhecimentos Técnicos
 
-```
-✅ Programação Orientada a Objetos (POO)     ✅ APIs RESTful & Microserviços
-✅ Estruturas de Dados & Algoritmos           ✅ Clean Code & Design Patterns
-✅ Banco de Dados Relacional & Modelagem      ✅ Metodologias Ágeis (Scrum/Kanban)
-✅ Autenticação & Segurança (JWT)             ✅ Redes & Sistemas Operacionais
-✅ Troubleshooting Hardware/Software          ✅ Eng. de Software & Arquitetura
-```
-
----
-
-<div align="center">
-
-**"Acredito no aprendizado forjado por projetos complexos mais do que dezenas de aplicações rasas."**
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Veja_meu_portfólio_completo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vitorangn.github.io)
-
-</div>
+```text
+Programação Orientada a Objetos (POO)     APIs RESTful & Microserviços
+Estruturas de Dados & Algoritmos           Clean Code & Design Patterns
+Banco de Dados Relacional & Modelagem      Metodologias Ágeis (Scrum/Kanban)
+Autenticação & Segurança (JWT)             Redes & Sistemas Operacionais
+Engenharia de Software & Arquitetura
