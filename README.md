@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou o Vitor Angelim! 👋
+# Olá, eu sou o Vitor Angelim!
 
 **`Desenvolvedor Back-End & Full-Stack`**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
+[![Portfolio](https://img.shields.io/badge/_Portfólio-vitorangn.github.io-7c3aed?style=for-the-badge)](https://vitorangn.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorangn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victornogueira1130@gmail.com)
 
@@ -12,21 +12,21 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Natural do **Ceará** e graduando em **Engenharia da Computação** pela **UTFPR** — Curitiba/PR.
 
 Apaixonado tanto pelo software de alto nível quanto pelo hardware "debaixo dos panos". Tenho um perfil voltado à **base estrutural realista** — Lógica, Estrutura de Dados e POO — aliada ao Desenvolvimento Ágil de sistemas.
 
-- 🔭 Desenvolvo projetos focados em **performance e arquitetura limpa**, utilizando metodologias robustas de mercado.
-- 🌱 Aprofundando em **design de APIs RESTful complexas** com Java, Node.js e Go.
-- ⚙️ Interesse forte por **C/C++, C#, Redes, Sistemas Operacionais** e Troubleshooting Hardware/Software.
-- 🎨 Abraço todas as etapas: desde prototipar no **Figma** até modelar o Banco de Dados no Back-end.
-- 🌐 **Inglês avançado (C1)** — leitura, escrita e comunicação profissional.
+- Desenvolvo projetos focados em **performance e arquitetura limpa**, utilizando metodologias robustas de mercado.
+- Aprofundando em **design de APIs RESTful complexas** com Java, Node.js e Go.
+- Interesse forte por **C/C++, C#, Redes, Sistemas Operacionais** e Troubleshooting Hardware/Software.
+- Abraço todas as etapas: desde prototipar no **Figma** até modelar o Banco de Dados no Back-end.
+- **Inglês avançado (C1)** — leitura, escrita e comunicação profissional.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -63,13 +63,13 @@ Apaixonado tanto pelo software de alto nível quanto pelo hardware "debaixo dos 
 
 ---
 
-### 🌟 Projetos em Destaque
+### Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎧 [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
+#### [Helpdesk Corporativo](https://github.com/VitorAngN/helpdesk-system)
 Sistema Full-Stack de gestão de chamados B2B com **React, TypeScript, Express, Prisma e MySQL**. Autenticação JWT com roteamento blindado de 3 camadas isoladas (Admin, Agente, Usuário).
 
 `React` `TypeScript` `Node.js` `Express` `Prisma` `MySQL` `JWT`
@@ -77,7 +77,7 @@ Sistema Full-Stack de gestão de chamados B2B com **React, TypeScript, Express, 
 </td>
 <td width="50%">
 
-#### 📄 [Korp — Sistema de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
+#### 📄[Korp — Sistema de Faturamento](https://github.com/VitorAngN/Korp_Teste_Vitor)
 Sistema de emissão de notas com **microserviços em Go**, frontend **Angular** e comunicação resiliente via circuit breaker. PostgreSQL + Docker Compose para orquestração.
 
 `Angular` `Go` `PostgreSQL` `Docker` `Microserviços` `REST`
@@ -95,10 +95,10 @@ Emulador de CPU desenvolvido do zero em **C++** para estudos de arquitetura de c
 </td>
 <td width="50%">
 
-#### 🚀 Em breve...
-Sempre trabalhando em novos projetos para expandir conhecimento. Fique de olho!
+#### [UrbanShield — Segurança Pública](https://github.com/VitorAngN/public-security-system)
+Plataforma tática para despacho policial e monitoramento urbano. Dashboard em tempo real com integração de mapas (Google Maps API) e análise de dados operacionais.
 
-`???` `Coming Soon`
+`React` `TypeScript` `Vite` `Google Maps API` `Recharts`
 
 </td>
 </tr>
